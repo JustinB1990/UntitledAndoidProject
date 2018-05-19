@@ -1,2 +1,2 @@
 # UntitledAndoidProject
-Teaming up again with MrQuwix, we want to develop a simple game for Android.
+Teaming up again with MrQuwix, I want to come up with a project that uses Java Swing.
